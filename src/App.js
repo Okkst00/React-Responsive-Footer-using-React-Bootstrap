@@ -20,13 +20,13 @@ function App() {
                 <h5 className='mt-lg-0 mt-md-0 mt-4 mb-3'>About</h5>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'>Profile</a>
+                <a href="#0">Profile</a>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'>Career</a>
+                <a href="#0">Career</a>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'>Privacy</a>
+                <a href="#0">Privacy</a>
               </li>
             </ul>
           </Col>
@@ -36,13 +36,13 @@ function App() {
                 <h5 className='mt-lg-0 mt-md-0 mt-4 mb-3'>Find us</h5>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'><i className="bi bi-instagram"></i> company</a>
+                <a href="#0"><i className="bi bi-instagram"></i> company</a>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'><i className="bi bi-twitter"></i> company_id</a>
+                <a href="#0"><i className="bi bi-twitter"></i> company_id</a>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'><i className="bi bi-facebook"></i> company</a>
+                <a href="#0"><i className="bi bi-facebook"></i> company</a>
               </li>
             </ul>
           </Col>
@@ -52,13 +52,13 @@ function App() {
                 <h5 className='mt-lg-0 mt-md-0 mt-4 mb-3'>Contact</h5>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'><i className="bi bi-geo-alt-fill"></i> Jl. Letjen abc, Malang, Jawa Timur</a>
+                <a href="#0"><i className="bi bi-geo-alt-fill"></i> Jl. Letjen abc, Malang, Jawa Timur</a>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'><i className="bi bi-telephone-fill"></i> +9898279387</a>
+                <a href="#0"><i className="bi bi-telephone-fill"></i> +9898279387</a>
               </li>
               <li className='list-unstyled mb-2'>
-                <a href='#'><i className="bi bi-envelope-at-fill"></i> company@gmail.com</a>
+                <a href="#0"><i className="bi bi-envelope-at-fill"></i> company@gmail.com</a>
               </li>
               <li className='list-unstyled'>
                 <div className="map mt-4">
